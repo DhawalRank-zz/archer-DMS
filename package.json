@@ -1,0 +1,26 @@
+{
+  "name": "the-archer",
+  "version": "1.0.0",
+  "description": "Document Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhawalRank/archer-DMS.git"
+  },
+  "keywords": [
+    "Document",
+    "Management",
+    "System",
+    "node",
+    "angular"
+  ],
+  "author": "Dhawal Rank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhawalRank/archer-DMS/issues"
+  },
+  "homepage": "https://github.com/DhawalRank/archer-DMS#readme"
+}
